@@ -1,4 +1,5 @@
-#Cryptocurrency Management Applicatie
+Cryptocurrency Management Applicatie
+
 Dit is een voorbeeld van een Spring Boot-applicatie voor het beheren van cryptocurrency-gegevens. Met deze applicatie kun je informatie over cryptocurrencies ophalen, toevoegen, bijwerken en verwijderen.
 
 Volg deze stappen om de applicatie op je lokale ontwikkelomgeving te installeren:
