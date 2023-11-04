@@ -8,7 +8,7 @@ Zorg ervoor dat je Java Development Kit (JDK) 11 of hoger hebt geïnstalleerd.
 
 Clone de repository naar je lokale machine:
 
-git clone https://github.com/jouw-gebruikersnaam/cryptocurrency-app.git
+git clone https://github.com/Verboddo/cryptocurrency-backend.git
 Navigeer naar de gekloonde map:
 
 cd cryptocurrency-app
@@ -23,7 +23,9 @@ De applicatie wordt nu uitgevoerd en is beschikbaar op http://localhost:8080.
 Gebruik
 Gebruik postman om de endpoints te testen. Ik heb het volgende bestand toegevoegd om deze te importeren: Crypto.postman_collection.json
 De applicatie biedt een RESTful API voor het beheren van cryptocurrency-gegevens. Je kunt HTTP-verzoeken maken om cryptocurrencies op te halen, toe te voegen, bij te werken en te verwijderen.
-Raadpleeg de API-documentatie voor details over beschikbare endpoints en verzoeken.
+Je kunt ook de front-end gebruiken om de endpoints te testen.
+Ga dan naar de volgende URL: https://github.com/Verboddo/cryptocurrency-frontend/tree/main
+Volg de stappen in de ReadMe om het project te clonen en te runnen.
 
 Functionaliteit
 De applicatie biedt de volgende functionaliteit:
